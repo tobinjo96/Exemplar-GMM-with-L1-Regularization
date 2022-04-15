@@ -3,7 +3,7 @@ An implementation of the method introduced in 'An Efficient Algorithm for Model-
 
 ![Demo of the Method](./Mixtures.png)
 
-To generate the data, the R library MixSim is used. To create the simulated data in the directory Data/Simulated, run the following in the command line:
+We include a ZIP file of the real datasets used in the paper as .csvs. To generate the simluated data, the R library MixSim is used. To create the simulated data in the directory Data/Simulated, run the following in the command line:
 ```console
 Rscript WriteMixSimData.R
 ```
