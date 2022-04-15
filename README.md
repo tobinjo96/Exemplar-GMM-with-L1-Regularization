@@ -14,5 +14,5 @@ python3 EGMM_Assess.py
 ```
 
 #### Future Updates
-15/04 - Real-world datasets implementation files. Improved search for theta parameter. Improved reporting of results. Implementation of Mclust and MixMod methods used in the paper. 
+16/04 - Improved search for theta parameter. Improved reporting of results. Implementation of MixMod methods used in the paper. 
 21/04 - Allowing users to specify thresholds from decision graph as in R's densityClust package. Subsampling for faster KDE. Large-scale real-world dataset implementations and results. 
